@@ -1,6 +1,5 @@
 package org.example;
 import java.io.*;
-import java.sql.SQLOutput;
 
 public class Binarios {
     public static void main(String[] args) {
